@@ -1,0 +1,44 @@
+﻿  BossInfo.cpp
+d:\lsb\국기반\workspace\poketmongame\poketmongame\bossinfo.cpp(49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  EnemyInfo.cpp
+  GlobalValue.cpp
+  MyMain.cpp
+d:\lsb\국기반\workspace\poketmongame\poketmongame\mymain.cpp(11): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  PrintScreen.cpp
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(14): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(285): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(313): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(357): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(482): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(790): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(809): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(828): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(848): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(922): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(922): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1011): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1032): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1037): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1043): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1217): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1225): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1249): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1255): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1267): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1276): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1311): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\lsb\국기반\workspace\poketmongame\poketmongame\printscreen.cpp(1153): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  UserInfo.cpp
+d:\lsb\국기반\workspace\poketmongame\poketmongame\userinfo.cpp(95): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  0 of 348 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+BossInfo.obj : warning LNK4020: 'd:\lsb\국기반\workspace\poketmongame\poketmongame\release\vc141.pdb'의 형식 레코드가 손상되었습니다. 디버거에서 일부 기호와 형식에 액세스할 수 없습니다.
+EnemyInfo.obj : warning LNK4020: 'd:\lsb\국기반\workspace\poketmongame\poketmongame\release\vc141.pdb'의 형식 레코드가 손상되었습니다. 디버거에서 일부 기호와 형식에 액세스할 수 없습니다.
+GlobalValue.obj : warning LNK4020: 'd:\lsb\국기반\workspace\poketmongame\poketmongame\release\vc141.pdb'의 형식 레코드가 손상되었습니다. 디버거에서 일부 기호와 형식에 액세스할 수 없습니다.
+MyMain.obj : warning LNK4020: 'd:\lsb\국기반\workspace\poketmongame\poketmongame\release\vc141.pdb'의 형식 레코드가 손상되었습니다. 디버거에서 일부 기호와 형식에 액세스할 수 없습니다.
+PrintScreen.obj : warning LNK4020: 'd:\lsb\국기반\workspace\poketmongame\poketmongame\release\vc141.pdb'의 형식 레코드가 손상되었습니다. 디버거에서 일부 기호와 형식에 액세스할 수 없습니다.
+UserInfo.obj : warning LNK4020: 'd:\lsb\국기반\workspace\poketmongame\poketmongame\release\vc141.pdb'의 형식 레코드가 손상되었습니다. 디버거에서 일부 기호와 형식에 액세스할 수 없습니다.
+  PoketmonGame.vcxproj -> D:\LSB\국기반\Workspace\PoketmonGame\Release\PoketmonGame.exe

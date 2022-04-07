@@ -1,0 +1,32 @@
+﻿  BossInfo.cpp
+  EnemyInfo.cpp
+  GlobalValue.cpp
+  MyMain.cpp
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\MyMain.cpp(11,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  PrintScreen.cpp
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(14,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(14,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(256,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(256,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(357,48): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(790,11): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(922,17): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(922,17): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1011,17): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1032,30): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1037,17): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1043,38): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1207,29): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1225,20): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1249,42): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1255,42): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1276,20): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1311,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\PrintScreen.cpp(1153,57): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  UserInfo.cpp
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\UserInfo.cpp(32,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\UserInfo.cpp(32,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\UserInfo.cpp(91,18): warning C4477: 'fprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\LSB\Downloads\Poketmon_Project\PoketmonGame\UserInfo.cpp(91,18): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  코드를 생성하고 있습니다...
+  PoketmonGame.vcxproj -> C:\Users\LSB\Downloads\Poketmon_Project\x64\Debug\PoketmonGame.exe
